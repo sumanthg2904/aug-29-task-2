@@ -1,4 +1,4 @@
-public class calculator {
+class calculator {
     public static void main(String[] args) {
         if (args.length < 3) {
             System.out.println("Usage: java SimpleCalculator <operation> <num1> <num2>");
